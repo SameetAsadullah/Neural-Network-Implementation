@@ -1,7 +1,7 @@
 <h1 align="center">Neural Network Implementation</h1>
 
 ### Description
-`Neural Network` implemented with different `Activation Functions` i.e,  and different `Optimizers` i.e, . You can choose different `Loss Functions` as well i.e, 
+`Neural Network` implemented with different `Activation Functions`, `Optimizers`, and `Loss Functions`. 
 
 ### Activation Functions
 - Sigmoid
