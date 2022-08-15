@@ -1,2 +1,25 @@
-# Neural-Network-Implementation
-Neural Network implemented with different Activation Functions i.e, sigmoid, relu, leaky-relu, softmax and different Optimizers i.e, Gradient Descent, AdaGrad, RMSProp, Adam. You can choose different loss functions as well i.e, cross-entropy loss, hinge-loss, mse
+<h1 align="center">Neural Network Implementation</h1>
+
+### Description
+`Neural Network` implemented with different `Activation Functions` i.e,  and different `Optimizers` i.e, . You can choose different `Loss Functions` as well i.e, 
+
+### Activation Functions
+- Sigmoid
+- Relu
+- Leaky-Relu
+- Softmax
+
+### Optimizers
+- Gradient Descent
+- AdaGrad
+- RMSProp
+- Adam
+
+### Loss Functions
+- Cross-Entropy Loss
+- Hinge-Loss
+- Mean Squared Error (MSE)
+
+### Contributors
+- [Sameet Asadullah](https://github.com/SameetAsadullah)
+- [Aysha Noor](https://github.com/ayshanoorr)
